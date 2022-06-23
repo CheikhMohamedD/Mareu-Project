@@ -3,7 +3,7 @@ import{View, Text, StyleSheet, TouchableOpacity} from 'react-native';
 import { FontAwesome } from '@expo/vector-icons'; // 5.0.0
 // import { completeReu } from 'app';
 //......
-
+// Test project : A corriger et a perfectionner
 const Reunion = (props) => {
     return(
         <View style={styles.item}>
